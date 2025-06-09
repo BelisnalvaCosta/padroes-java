@@ -1,6 +1,6 @@
 # 🧩 Padrões-Java  
 
-Projeto feito na **IDE IntelliJ IDEA**
+Projeto feito na **IDE IntelliJ IDEA** [^1]
 
 ## 🧠 Conceitos aplicados no projeto
 
@@ -51,8 +51,6 @@ System.out.printf("%s, %s! %s\n", saudacao, nome, mensagemIdade);
 
 O printf é usado para mostrar uma mensagem formatada com variáveis (como nome e idade).
 
-🔄 Diferença entre println, print e printf
-
 ![Captura de tela 2025-06-09 005350](https://github.com/user-attachments/assets/b918b4d7-2b65-441c-baed-57afb832dff1)
 
 💡 Dica para iniciantes:
@@ -63,4 +61,4 @@ Use print() quando quiser manter o cursor na mesma linha.
 
 Use printf() quando precisar inserir variáveis dentro do texto com mais controle visual.
 
-[^1]: Projeto criado com base na aula do professor José Luiz A. C. Júnior (DIO) ↩
+[^1]: Projeto criado com base na aula do professor José Luiz A. C. Júnior (DIO)
